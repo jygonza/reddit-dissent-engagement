@@ -1,0 +1,15 @@
+# Excluded from version control
+4. Uptake(1).ipynb
+dissent-classification-evaluation.ipynb
+debagreement (1).csv
+README.md
+README_Engagement.md
+README_Uptake.md
+PIPELINE.md
+
+# Common Python / Jupyter artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+.env
